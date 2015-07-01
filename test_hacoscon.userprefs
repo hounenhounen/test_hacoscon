@@ -1,6 +1,12 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Camera\StartCameraController.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Runner\Runner.cs" Line="23" Column="15" />
+      <File FileName="Assets\Scripts\Runner\Timer.cs" Line="56" Column="1" />
+      <File FileName="Assets\Scripts\Camera\StartCameraController.cs" Line="63" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

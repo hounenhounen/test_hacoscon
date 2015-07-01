@@ -56,7 +56,7 @@ public class StartCameraController : MonoBehaviour {
 		}
 		//スタートからワールドへのシーン遷移を行う
 		if (GUI.Button(new Rect(Screen.width / 2 - Screen.width / 10, Screen.height / 2, Screen.width / 5, Screen.height / 10), "Start")) {
-			Application.LoadLevel ("world");
+			Application.LoadLevel ("run");
 		}
 	}
 }

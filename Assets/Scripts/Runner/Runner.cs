@@ -51,11 +51,8 @@ public class Runner : MonoBehaviour {
 			transform.position = new Vector3 (transform.position.x, transform.position.y, transform.position.z);
 		}
 	}
-	
-	//Goal接触時にアニメーションを切り替える
-	//Unityちゃんの挙動をゴールモードにする
+
 	void OnGoal() {
-		GetComponent<Animator>().SetTrigger("GOAL");
 		goal = true;
 	}
 	
